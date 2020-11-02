@@ -1,6 +1,6 @@
 
 const clientID = 'ea507b650c4c4ede937a06f2be85ae76';
-const redirectUri = "http://tranquil-need.surge.sh";
+const redirectUri = "http://kevin-jam.surge.sh";
 
 let accessToken;
 
